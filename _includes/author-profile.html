@@ -20,7 +20,7 @@
         <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
       {% endif %}
       {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true" style="white-space: normal;"></i> {{ author.location }}</li>
+        <li style="white-space: normal;word-break: break-all;line-height:1.5;"><i class="fa fa-fw fa-map-marker" aria-hidden="true" style="min-width:18px;"></i> <span style="white-space: normal;word-break: break-all;">{{ author.location }}</span></li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
