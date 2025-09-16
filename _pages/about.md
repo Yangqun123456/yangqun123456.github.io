@@ -23,18 +23,14 @@ Hello! I am Qun Yang (杨群), currently a direct Ph.D. student at the [College 
 
 I am honored to be advised by [Prof. Wei Chen](https://xueshu.baidu.com/scholarID/CN-BF75SYFJ) and co-supervised by [Assoc. Researcher Long Lan](https://lan-long.github.io/index.html). At the same time, I am very fortunate to receive guidance and collaborate with [Assoc. Prof. Li Shen](https://sites.google.com/site/mathshenli/home) from Sun Yat-sen University and [Dr. Enneng Yang](https://ennengyang.github.io/).
 
-My research interests focus on **Large Language Models (LLMs)** and **Machine Learning**. I am passionate about exploring the frontiers of artificial intelligence, including model architecture, continual learning, and knowledge representation. As a new researcher, I am eager to learn, grow, and contribute to the academic community.
-
 I welcome academic exchanges and cooperation. Please feel free to contact me!
 
 <!-- - **Email:** yangqun@nudt.edu.cn / 2537148609@qq.com
 - **GitHub:** [yangqun123456](https://github.com/yangqun123456) -->
 
-<!--
-My research interests include:
+As a new researcher, I am eager to learn, grow, and contribute to the academic community. My research interests include:
 - Large Language Model: continual pretraining/finetuning, knowledge editing
 - Machine Learning: model merging, multi-task learning, continual/incremental learning, data-free learning, dataset/knowledge distillation
--->
 
 # 📖 Education
 
