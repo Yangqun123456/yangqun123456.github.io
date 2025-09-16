@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-<!-- {% if site.google_scholar_stats_use_cdn %}
+{% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
 
@@ -45,9 +45,8 @@ My research interests include:
 
 <ul class="projects-box" id="projects-box">
 <!-- <li> 2025.xx: ... </li> -->
-<p class="projects-show" id="projects-show"><span class="projects-show-text" id="projects-show-text">More</span></p>
-</ul>
--->
+<!-- <p class="projects-show" id="projects-show"><span class="projects-show-text" id="projects-show-text">More</span></p>
+</ul> -->
 
 <!--
 # ✨ Repositories
